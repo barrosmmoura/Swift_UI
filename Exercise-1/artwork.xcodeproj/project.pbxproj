@@ -11,6 +11,7 @@
 		A2737F5C2ABCC30900A28544 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2737F5B2ABCC30900A28544 /* ContentView.swift */; };
 		A2737F5E2ABCC30A00A28544 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2737F5D2ABCC30A00A28544 /* Assets.xcassets */; };
 		A2737F612ABCC30A00A28544 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2737F602ABCC30A00A28544 /* Preview Assets.xcassets */; };
+		A2737F682ABCC60C00A28544 /* Componetizacao.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2737F672ABCC60C00A28544 /* Componetizacao.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A2737F5B2ABCC30900A28544 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A2737F5D2ABCC30A00A28544 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2737F602ABCC30A00A28544 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A2737F672ABCC60C00A28544 /* Componetizacao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Componetizacao.swift; path = ../../../Componetizacao.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A2737F592ABCC30900A28544 /* artworkApp.swift */,
 				A2737F5B2ABCC30900A28544 /* ContentView.swift */,
+				A2737F672ABCC60C00A28544 /* Componetizacao.swift */,
 				A2737F5D2ABCC30A00A28544 /* Assets.xcassets */,
 				A2737F5F2ABCC30A00A28544 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				A2737F5C2ABCC30900A28544 /* ContentView.swift in Sources */,
 				A2737F5A2ABCC30900A28544 /* artworkApp.swift in Sources */,
+				A2737F682ABCC60C00A28544 /* Componetizacao.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
